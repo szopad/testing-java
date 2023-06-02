@@ -1,0 +1,93 @@
+[33mcommit cc76e322ffd510d0f4b9c83c5e4b4c2c73c2cd72[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: dariusz.szopa <dariusz.szopa@fdmgroup.com>
+Date:   Fri Jun 2 14:31:48 2023 +0200
+
+    added a gitignore file
+    
+    ignoring all text files in the log folder
+
+[33mcommit de50cb3973d572f4159505c0871b2e3e9c583d7c[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: dariusz.szopa <dariusz.szopa@fdmgroup.com>
+Date:   Fri Jun 2 13:35:29 2023 +0200
+
+    Revert "added importantfile to importantfolder"
+    
+    This reverts commit cae3c4540e06a6a25888f8a86c60250a75c64426.
+
+[33mcommit cae3c4540e06a6a25888f8a86c60250a75c64426[m
+Author: dariusz.szopa <dariusz.szopa@fdmgroup.com>
+Date:   Fri Jun 2 13:34:06 2023 +0200
+
+    added importantfile to importantfolder
+
+[33mcommit 94c528e92e4c4985c20cf03971f862eea1b2a349[m
+Author: dariusz.szopa <dariusz.szopa@fdmgroup.com>
+Date:   Fri Jun 2 13:32:35 2023 +0200
+
+    added an important file
+
+[33mcommit 244d47127fe2d7a7306e6be0534b2d32903f9b10[m
+Author: dariusz.szopa <dariusz.szopa@fdmgroup.com>
+Date:   Fri Jun 2 13:30:22 2023 +0200
+
+    added importantfile.md
+
+[33mcommit d602e92ac02089b51ea27ebcfcd8b3f4eda6c204[m
+Author: dariusz.szopa <dariusz.szopa@fdmgroup.com>
+Date:   Fri Jun 2 10:54:29 2023 +0200
+
+    adds second folder
+
+[33mcommit 69b79f3f0a71bc1367fa8713c864a69317a1abff[m
+Author: dariusz.szopa <dariusz.szopa@fdmgroup.com>
+Date:   Fri Jun 2 10:50:37 2023 +0200
+
+    add folder structure
+
+[33mcommit eaf349b6b0714c661f72eb90b2009da2ef3c781e[m
+Author: dariusz.szopa <dariusz.szopa@fdmgroup.com>
+Date:   Fri Jun 2 10:36:56 2023 +0200
+
+    added important content
+
+[33mcommit d2db2abc2e7b67362719ee25b193f92111e66939[m
+Author: dariusz.szopa <dariusz.szopa@fdmgroup.com>
+Date:   Fri Jun 2 10:34:11 2023 +0200
+
+    removed example.md
+
+[33mcommit ab1d5584418ba4201b0a9197cd871d7d97a172de[m
+Author: dariusz.szopa <dariusz.szopa@fdmgroup.com>
+Date:   Fri Jun 2 10:06:23 2023 +0200
+
+    added new lines
+
+[33mcommit 1641d30feaf201088e72d62ff0d6134bd3ccfec2[m
+Author: dariusz.szopa <dariusz.szopa@fdmgroup.com>
+Date:   Fri Jun 2 10:03:18 2023 +0200
+
+    added more text
+
+[33mcommit ac71cc95fa923b3691a425282e1e57a94c50b1a4[m
+Author: dariusz.szopa <dariusz.szopa@fdmgroup.com>
+Date:   Fri Jun 2 09:58:26 2023 +0200
+
+    added text to example.md
+
+[33mcommit 3e4218ca96e72799592fdd26127cfd61027244c2[m
+Author: dariusz.szopa <dariusz.szopa@fdmgroup.com>
+Date:   Fri Jun 2 09:55:14 2023 +0200
+
+    adds exampl.md, code in Runner.java
+
+[33mcommit 28a0b501d7203348f70cbb2cba4413e2cd0db53d[m
+Author: dariusz.szopa <dariusz.szopa@fdmgroup.com>
+Date:   Thu Jun 1 23:04:55 2023 +0200
+
+    adds Runner.java
+
+[33mcommit c0287ece4e943ea0132d342963774a63f3c1c47f[m
+Author: szopad <113259070+szopad@users.noreply.github.com>
+Date:   Thu Jun 1 22:54:41 2023 +0200
+
+    Initial commit
